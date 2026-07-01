@@ -17,3 +17,7 @@ Cool stuff @ https://arshchawla.dev !!!
 ### Bioinformatics/Algorithms
 
 > deBubble: Pure Rust, Graph based Linear-time Sequence Alignment Tool 
+
+### Misc
+
+> [RiddleForge](https://arshchawla.dev/projects/riddleforge/): iOS Riddle Solving Game, Powered by LLMs. 
