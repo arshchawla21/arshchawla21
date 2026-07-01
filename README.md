@@ -10,7 +10,7 @@ Cool stuff @ https://arshchawla.dev !!!
 >
 > [LSTM Cyclone Forescasting](https://github.com/arshchawla21/cyclone-lstm-forecasting): Research Project for Efficient Time-Series Forecasting
 >
-> RE4: Transformation-aware Imitation Learning
+> [RE4](https://arxiv.org/abs/2606.24403v1): Transformation-aware Imitation Learning
 >
 > [Autoresearch Trader](https://github.com/arshchawla21/autoresearch-trader): Toy Trading Project Exploring Autoresearch Trading Model Development
 
